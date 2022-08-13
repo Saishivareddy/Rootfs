@@ -1,2 +1,0 @@
-# Rootfs
-Root Fle System
